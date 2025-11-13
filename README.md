@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/PM2.5/%5B%20Multi%20%5D%20-%20Laser%20PM%202.5%20Sensor.jpg?raw=true)
+
 # Laser-PM-2.5-Sensor
 **The Grove – Laser PM2.5 Sensor (HM3301)** is a new-generation laser dust sensor designed for real-time and continuous monitoring of airborne particles. Unlike traditional sensors that use air pumps, the HM3301 uses built-in fan blades to draw air into the detection chamber, ensuring stable measurements with low noise and ultra-low power consumption. It works based on the Mie scattering principle, where particles scatter light from a laser source. This scattered light is collected by a photosensitive diode, amplified, and analyzed with an advanced algorithm to determine particle count and mass concentration. Its high sensitivity allows detection of particles as small as 0.3 µm, making it highly reliable for indoor air quality monitoring and environmental applications.
 
